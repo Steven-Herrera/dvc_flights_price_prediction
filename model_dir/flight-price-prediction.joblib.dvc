@@ -1,0 +1,5 @@
+outs:
+- md5: 02e74d0fce528b5f2ec93083c5eb7d3b
+  size: 836306784
+  hash: md5
+  path: flight-price-prediction.joblib
